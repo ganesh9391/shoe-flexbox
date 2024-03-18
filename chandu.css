@@ -1,0 +1,92 @@
+*{margin: 0;
+    padding: 0;
+    
+}
+.product{
+    font-size: large;
+    background-color: rgb(75, 202, 202);
+    text-align: center;
+    color: rgb(221, 11, 11);
+    
+}
+.tee{
+    border: 2px solid rgb(8, 8, 8);
+    width: 800px;
+    
+    
+    
+    
+}
+.flexbox{
+    display: flex;
+    gap: 16px;
+}
+.kit{
+     margin: 4px;
+     transition: 400ms;
+    }
+.card{
+    background-color: rgb(207, 70, 173);
+    color: rgb(93, 218, 21);
+    font-weight: bold;
+    cursor: pointer;
+    width: 100%;
+    
+}
+.card:hover{
+    background-color: rgb(43, 19, 179);
+color: rgb(29, 231, 22);
+
+}
+.ull{
+    color: rgb(49, 211, 16);
+}
+.lit{
+    flex: 2;
+    
+}
+.book{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.fit{
+    flex: 2;
+}
+.tit{
+     display: flex;
+    gap: 10px;
+}.color{
+    background-color: black;
+   display : inline-block;
+    width: 20px;
+    height: 20px;
+border: 1px solid black;
+
+}
+.color-red{
+    background-color: red;
+   
+    width: 20px;
+    height: 20px;
+}
+.color-blue{
+    background-color: blue;
+    
+    width: 20px;
+    height: 20px;
+}
+.color-pink{
+    background-color: pink;
+    
+    width: 20px;
+    height: 20px;
+}
+.color-yellow{
+    background-color: rgb(159, 194, 32);
+    
+    width: 20px;
+    height: 20px;
+}
+
